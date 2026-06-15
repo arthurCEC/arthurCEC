@@ -1,9 +1,12 @@
-<h1 align="center">Arthur Henrique</h1>
-<p align="center"><strong>Desenvolvedor Full Stack em Formação | Cruzeirense</strong></p>
+<p align="center">
+  <a href="https://github.com/arthurCEC">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=Arthur+Henrique;Desenvolvedor+Full+Stack;Fechado+com+o+Cruzeiro+💙" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Brasil-0047AB?style=for-the-badge&logoColor=white" alt="Localização" />
-  <img src="https://img.shields.io/badge/⚽_Fechado_com_o_Cruzeiro-0047AB?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Cruzeiro CEC" />
+  <img src="https://img.shields.io/badge/⚽_Cruzeirense-0047AB?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Cruzeiro CEC" />
   <a href="https://github.com/arthurCEC">
     <img src="https://img.shields.io/github/followers/arthurCEC?label=Seguidores&style=for-the-badge&color=0047AB&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
@@ -11,35 +14,29 @@
 
 <br>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🔵⚪ Sobre Mim</h3>
-      <p>
-        Olá! Eu sou o <strong>Arthur Henrique</strong>. Um desenvolvedor focado em transformar lógica em realidade através de código limpo e eficiente. Atualmente, busco dominar o desenvolvimento Full Stack, integrando a robustez do back-end com a fluidez do front-end.
-      </p>
-      <p>
-        Fora do ambiente de desenvolvimento, dedico meu tempo aos estudos, tecnologias, games e a acompanhar o <strong>Cabuloso</strong>.
-      </p>
-    </td>
-    <td width="5%"></td>
-    <td width="40%" valign="top">
-      <h3>🎯 Foco Atual</h3>
-      <ul>
-        <li>📖 Lógica de Programação & Algoritmos</li>
-        <li>☕ Especialização em <strong>Java</strong></li>
-        <li>🐘 Aprofundamento em <strong>PHP</strong></li>
-        <li>🏗️ Arquitetura de Sistemas</li>
-      </ul>
-    </td>
-  </tr>
+<table align="center" width="80%" style="border-collapse: collapse; border-spacing: 0;">
+  <thead align="center">
+    <tr>
+      <th style="padding: 10px; background-color: #0047AB; color: white; font-family: monospace; font-size: 16px;">👨‍💻 arthur@dev:~$ cat sobre_mim.txt</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 20px; border: 1px solid #30363D; font-family: monospace; font-size: 15px; line-height: 1.6;">
+        > <strong>Identificação:</strong> Arthur Henrique<br>
+        > <strong>Objetivo:</strong> Desenvolvedor Full Stack de alta performance. Foco em código limpo, método e arquitetura de sistemas.<br>
+        > <strong>Atividades Diárias:</strong> Lógica de programação, imersão em novas tecnologias e acompanhamento tático do Cabuloso.<br>
+        > <strong>Status Atual:</strong> Especialização em <strong>Java</strong> e aprofundamento em <strong>PHP</strong>.<br>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
 <hr>
 <br>
 
-<h2 align="center">🛠️ Ferramentas e Tecnologias</h2>
+<h2 align="center">⚙️ Ferramentas e Tecnologias</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,vscode,idea,postman,linux&perline=6" alt="Minhas Stacks" />
@@ -50,36 +47,26 @@
 <hr>
 <br>
 
-<h2 align="center">📊 Estatísticas de Código</h2>
+<h2 align="center">📊 Analytics de Código</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurCEC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0047AB&icon_color=38BDF8&text_color=ffffff&bg_color=0d1117&locale=pt-br" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurCEC&layout=compact&theme=tokyonight&hide_border=true&title_color=0047AB&text_color=ffffff&bg_color=0d1117&locale=pt-br" height="180em" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurCEC&theme=tokyonight&hide_border=true&fire=0047AB&ring=38BDF8&currStreakLabel=0047AB&locale=pt-br" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurCEC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0047AB&icon_color=38BDF8&text_color=ffffff&bg_color=0d1117&locale=pt-br" height="170em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurCEC&layout=compact&theme=tokyonight&hide_border=true&title_color=0047AB&text_color=ffffff&bg_color=0d1117&locale=pt-br" height="170em" alt="Top Languages" />
 </p>
 
 <br>
 <hr>
 <br>
 
-<h2 align="center">🤝 Contato</h2>
+<h2 align="center">🔗 Conexões</h2>
 <p align="center">
-  Aberto a colaborações, desafios técnicos e networking.
+  Aberto a colaborações e discussões lógicas sobre tecnologia.
 </p>
-
 <p align="center">
   <a href="https://arthurcec.github.io/LandingPageArthur" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Meu_Portfólio-0047AB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/🌐_Portfólio-0047AB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:thurmr93@gmail.com">
     <img src="https://img.shields.io/badge/✉️_E--mail-ffffff?style=for-the-badge&logo=gmail&logoColor=0047AB" alt="Email" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub><i>"A imagem do Cruzeiro resplandece..." 💙 Desenvolvido por <strong>Arthur Henrique</strong>.</i></sub>
 </p>
