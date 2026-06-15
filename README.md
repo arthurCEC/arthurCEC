@@ -1,9 +1,10 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Arthur%20Henrique&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20em%20Formação%20|%20Cruzeirense&descSize=20&descAlignY=70&descColor=efefef" width="100%" alt="Arthur Henrique Header" />
+  <img src="./bandeira.jpg" width="100%" max-height="280px" style="object-fit: cover; border-radius: 6px;" alt="Cruzeiro Banner" />
 </p>
 
-<!-- BADGES DE STATUS/SOCIAL -->
+<h1 align="center">Arthur Henrique</h1>
+<p align="center"><strong>Desenvolvedor Full Stack em Formação | Cruzeirense</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Brasil-0047AB?style=for-the-badge&logoColor=white" alt="Localização" />
   <img src="https://img.shields.io/badge/⚽_Fechado_com_o_Cruzeiro-0047AB?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Cruzeiro CEC" />
@@ -14,7 +15,6 @@
 
 <br>
 
-<!-- SEÇÃO: SOBRE MIM & FOCO (LAYOUT EM GRADE) -->
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="55%" valign="top">
@@ -43,7 +43,6 @@
 <hr>
 <br>
 
-<!-- SEÇÃO: TECH STACK (ÍCONES MODERNOS) -->
 <h2 align="center">🛠️ Minha Caixa de Ferramentas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -55,7 +54,6 @@
 <hr>
 <br>
 
-<!-- SEÇÃO: ESTATÍSTICAS (TEMA ADAPTADO) -->
 <h2 align="center">📊 Estatísticas de Código</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurCEC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0047AB&icon_color=38BDF8&text_color=ffffff&bg_color=0d1117" height="180em" alt="GitHub Stats" />
@@ -69,7 +67,6 @@
 <hr>
 <br>
 
-<!-- SEÇÃO: CONECTE-SE -->
 <h2 align="center">🤝 Vamos conversar?</h2>
 <p align="center">
   Aberto a colaborações, desafios e papos sobre tecnologia (ou sobre o Cruzeiro).
@@ -87,7 +84,6 @@
 
 <br>
 
-<!-- FOOTER MINIMALISTA -->
 <p align="center">
   <sub><i>"A imagem do Cruzeiro resplandece..." 💙 Desenvolvido por <strong>Arthur Henrique</strong>.</i></sub>
 </p>
