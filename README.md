@@ -64,3 +64,9 @@ Olá! Sou o **Arthur Henrique** — desenvolvedor em formação, apaixonado por 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005BA3,100:003087&height=120&section=footer" width="100%" alt="Footer" />
 </p>
+
+<p align="center">
+  <a href="https://arthurcec.github.io/LandingPageArthur" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-003087?style=for-the-badge&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
