@@ -15,10 +15,10 @@
   <tbody>
     <tr>
       <td style="padding: 20px; border: 2px solid #0047AB; border-radius: 8px; font-family: monospace; font-size: 15px; line-height: 1.6; background-color: #0d1117; color: #ffffff;">
-        > <strong>Identificação:</strong> Arthur Henrique<br>
-        > <strong>Objetivo:</strong> Desenvolvedor Full Stack de alta performance. Foco em código limpo, método e arquitetura de sistemas.<br>
-        > <strong>Atividades Diárias:</strong> Lógica de programação, imersão em novas tecnologias e acompanhamento do Cruzeiro.<br>
-        > <strong>Status Atual:</strong> Especialização em <strong>Java</strong> e aprofundamento em <strong>PHP</strong>.<br>
+        > <strong>Identificação:</strong> <strong>Arthur Henrique</strong><br>
+        > <strong>Objetivo:</strong> Construir software que funciona de verdade. Código limpo, arquitetura sólida, sem enrolação.<br>
+        > <strong>Atividades Diárias:</strong> Programando, aprendendo algo novo e sofrendo com o Cruzeiro (com amor). 🔵<br>
+        > <strong>Status Atual:</strong> Mergulhado em <strong>Java</strong> e <strong>PHP</strong> — a mente do principiante nunca está cheia. 🍃<br>
       </td>
     </tr>
   </tbody>
