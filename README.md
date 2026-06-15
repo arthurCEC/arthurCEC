@@ -14,14 +14,16 @@
 
 <br>
 
-<table align="center" width="80%" style="border-collapse: collapse; border-spacing: 0;">
-  <thead align="center">
-    <tr>
-      <th style="padding: 10px; background-color: #0047AB; color: white; font-family: monospace; font-size: 16px;">👨‍💻 arthur@dev:~$ cat sobre_mim.txt</th>
+<tr>
+      <td style="padding: 20px; border: 1px solid #30363D; font-family: monospace; font-size: 15px; line-height: 1.6;">
+        > <strong>Identificação:</strong> Arthur Henrique<br>
+        > <strong>Objetivo:</strong> Desenvolvedor Full Stack de alta performance. Foco em código limpo, método e arquitetura de sistemas.<br>
+        > <strong>Atividades Diárias:</strong> Lógica de programação, imersão em novas tecnologias e acompanhamento do Cruzeiro.<br>
+        > <strong>Status Atual:</strong> Especialização em <strong>Java</strong> e aprofundamento em <strong>PHP</strong>.<br>
+      </td>
     </tr>
-  </thead>
-  <tbody>
-    <tr>
+  </tbody>
+</table>
       <td style="padding: 20px; border: 1px solid #30363D; font-family: monospace; font-size: 15px; line-height: 1.6;">
         > <strong>Identificação:</strong> Arthur Henrique<br>
         > <strong>Objetivo:</strong> Desenvolvedor Full Stack de alta performance. Foco em código limpo, método e arquitetura de sistemas.<br>
