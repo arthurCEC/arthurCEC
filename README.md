@@ -16,7 +16,7 @@
     <tr>
       <td style="padding: 20px; border: 2px solid #0047AB; border-radius: 8px; font-family: monospace; font-size: 15px; line-height: 1.6; background-color: #0d1117; color: #ffffff;">
         Olá! Me chamo <strong>Arthur Henrique</strong>, faço parte da turma de aprendizagem do <strong>SENAC DF</strong> em parceria com a <strong>G4F</strong>. 🔵<br><br>
-        Cruzeirense pá, curioso por natureza e acredito que a mente do principiante nunca está cheia — sempre tem mais pra aprender. 🍃<br><br>
+        Cruzeirense, curioso por tudo e acredito que a mente do principiante nunca está cheia — sempre tem mais pra aprender. 🍃<br><br>
         > <strong>Objetivo:</strong> Construir software que funciona de verdade. Código limpo, arquitetura sólida, sem enrolação.<br>
         > <strong>Atividades Diárias:</strong> Programando, aprendendo algo novo e acompanhando o Cruzeiro. 🔵<br>
         > <strong>Status Atual:</strong> Desenvolvendo junto com minha equipe o <strong>SIGEP</strong> — um sistema web de gestão de requisições de suprimentos voltado para instituições de ensino profissional. Controla desde a solicitação até a entrega de materiais, com rastreabilidade de pedidos, controle de estoque e fluxo de aprovação entre setores.<br>
