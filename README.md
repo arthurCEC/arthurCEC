@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="./bandeira.jpg" width="100%" max-height="280px" style="object-fit: cover; border-radius: 6px;" alt="Cruzeiro Banner" />
+  <img src="./bandeira_header.jpg" width="100%" style="object-fit: cover; border-radius: 6px;" alt="Banner Arthur Henrique" />
 </p>
-
-<h1 align="center">Arthur Henrique</h1>
-<p align="center"><strong>Desenvolvedor Full Stack em Formação | Cruzeirense</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Brasil-0047AB?style=for-the-badge&logoColor=white" alt="Localização" />
