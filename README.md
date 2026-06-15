@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=Arthur+Henrique;Desenvolvedor+Full+Stack;Fechado+com+o+Cruzeiro+💙" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Brasil-0047AB?style=for-the-badge&logoColor=white" alt="Localização" />
   <img src="https://img.shields.io/badge/⚽_Cruzeirense-0047AB?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Cruzeiro CEC" />
@@ -11,11 +10,11 @@
     <img src="https://img.shields.io/github/followers/arthurCEC?label=Seguidores&style=for-the-badge&color=0047AB&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
 </p>
-
 <br>
-
-<tr>
-      <td style="padding: 20px; border: 1px solid #30363D; font-family: monospace; font-size: 15px; line-height: 1.6;">
+<table align="center" width="700" style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="padding: 20px; border: 2px solid #0047AB; border-radius: 8px; font-family: monospace; font-size: 15px; line-height: 1.6; background-color: #0d1117; color: #ffffff;">
         > <strong>Identificação:</strong> Arthur Henrique<br>
         > <strong>Objetivo:</strong> Desenvolvedor Full Stack de alta performance. Foco em código limpo, método e arquitetura de sistemas.<br>
         > <strong>Atividades Diárias:</strong> Lógica de programação, imersão em novas tecnologias e acompanhamento do Cruzeiro.<br>
@@ -24,41 +23,26 @@
     </tr>
   </tbody>
 </table>
-      <td style="padding: 20px; border: 1px solid #30363D; font-family: monospace; font-size: 15px; line-height: 1.6;">
-        > <strong>Identificação:</strong> Arthur Henrique<br>
-        > <strong>Objetivo:</strong> Desenvolvedor Full Stack de alta performance. Foco em código limpo, método e arquitetura de sistemas.<br>
-        > <strong>Atividades Diárias:</strong> Lógica de programação, imersão em novas tecnologias e acompanhamento tático do Cabuloso.<br>
-        > <strong>Status Atual:</strong> Especialização em <strong>Java</strong> e aprofundamento em <strong>PHP</strong>.<br>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <br>
 <hr>
 <br>
-
 <h2 align="center">⚙️ Ferramentas e Tecnologias</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,js,html,css,mysql,git,github,vscode,idea,postman,linux&perline=6" alt="Minhas Stacks" />
   </a>
 </p>
-
 <br>
 <hr>
 <br>
-
 <h2 align="center">📊 Analytics de Código</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurCEC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0047AB&icon_color=38BDF8&text_color=ffffff&bg_color=0d1117&locale=pt-br" height="170em" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurCEC&layout=compact&theme=tokyonight&hide_border=true&title_color=0047AB&text_color=ffffff&bg_color=0d1117&locale=pt-br" height="170em" alt="Top Languages" />
 </p>
-
 <br>
 <hr>
 <br>
-
 <h2 align="center">🔗 Conexões</h2>
 <p align="center">
   Aberto a colaborações e discussões lógicas sobre tecnologia.
