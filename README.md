@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Constru%C3%A7%C3%A3o-005BA3?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/github/followers/[seu-usuario-github]?label=Seguidores&style=flat-square&color=fff&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/followers/[arthurCEC]?label=Seguidores&style=flat-square&color=fff&logo=github" alt="Followers">
 </p>
 
 ---
