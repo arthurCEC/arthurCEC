@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arthurCEC">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=Arthur+Henrique;Desenvolvedor+Full+Stack;Fechado+com+o+Cruzeiro+💙" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=Arthur+Henrique;Desenvolvedor+Full+Stack;Fechado+com+o+Cruzeiro+🦊" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
